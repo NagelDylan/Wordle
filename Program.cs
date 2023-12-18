@@ -1,8 +1,6 @@
 ﻿//Author: Dylan Nagel
 //File Name: main.cs
 //Project Name: NagelDPASS1
-//Creation Date: Feb. 08, 2023
-//Modified Date: Feb. 26, 2023
 //Description: A superior recreation of the the popular guessing game "Wordle"
 
 using System;
